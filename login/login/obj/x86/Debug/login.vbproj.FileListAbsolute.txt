@@ -1,0 +1,9 @@
+D:\SuperICT\Database\V1.0.0\login\login\bin\Debug\login.exe
+D:\SuperICT\Database\V1.0.0\login\login\bin\Debug\login.pdb
+D:\SuperICT\Database\V1.0.0\login\login\bin\Debug\login.xml
+D:\SuperICT\Database\V1.0.0\login\login\obj\x86\Debug\login.Form1.resources
+D:\SuperICT\Database\V1.0.0\login\login\obj\x86\Debug\login.Resources.resources
+D:\SuperICT\Database\V1.0.0\login\login\obj\x86\Debug\login.vbproj.GenerateResource.Cache
+D:\SuperICT\Database\V1.0.0\login\login\obj\x86\Debug\login.exe
+D:\SuperICT\Database\V1.0.0\login\login\obj\x86\Debug\login.xml
+D:\SuperICT\Database\V1.0.0\login\login\obj\x86\Debug\login.pdb
