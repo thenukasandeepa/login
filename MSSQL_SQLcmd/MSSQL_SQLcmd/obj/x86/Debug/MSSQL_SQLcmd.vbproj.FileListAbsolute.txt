@@ -1,0 +1,10 @@
+D:\SuperICT\Database\V1.0.0\MSSQL_SQLcmd\MSSQL_SQLcmd\bin\Debug\MSSQL_SQLcmd.exe
+D:\SuperICT\Database\V1.0.0\MSSQL_SQLcmd\MSSQL_SQLcmd\bin\Debug\MSSQL_SQLcmd.pdb
+D:\SuperICT\Database\V1.0.0\MSSQL_SQLcmd\MSSQL_SQLcmd\bin\Debug\MSSQL_SQLcmd.xml
+D:\SuperICT\Database\V1.0.0\MSSQL_SQLcmd\MSSQL_SQLcmd\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\SuperICT\Database\V1.0.0\MSSQL_SQLcmd\MSSQL_SQLcmd\obj\x86\Debug\WindowsApplication1.loginForm.resources
+D:\SuperICT\Database\V1.0.0\MSSQL_SQLcmd\MSSQL_SQLcmd\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\SuperICT\Database\V1.0.0\MSSQL_SQLcmd\MSSQL_SQLcmd\obj\x86\Debug\MSSQL_SQLcmd.vbproj.GenerateResource.Cache
+D:\SuperICT\Database\V1.0.0\MSSQL_SQLcmd\MSSQL_SQLcmd\obj\x86\Debug\MSSQL_SQLcmd.exe
+D:\SuperICT\Database\V1.0.0\MSSQL_SQLcmd\MSSQL_SQLcmd\obj\x86\Debug\MSSQL_SQLcmd.xml
+D:\SuperICT\Database\V1.0.0\MSSQL_SQLcmd\MSSQL_SQLcmd\obj\x86\Debug\MSSQL_SQLcmd.pdb

@@ -1,0 +1,10 @@
+D:\SuperICT\Database\V1.0.0\MSSQL_OLEDB\MSSQL_OLEDB\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\SuperICT\Database\V1.0.0\MSSQL_OLEDB\MSSQL_OLEDB\obj\x86\Debug\WindowsApplication1.login.resources
+D:\SuperICT\Database\V1.0.0\MSSQL_OLEDB\MSSQL_OLEDB\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\SuperICT\Database\V1.0.0\MSSQL_OLEDB\MSSQL_OLEDB\obj\x86\Debug\MSSQL_OLEDB.vbproj.GenerateResource.Cache
+D:\SuperICT\Database\V1.0.0\MSSQL_OLEDB\MSSQL_OLEDB\bin\Debug\MSSQL_OLEDB.exe
+D:\SuperICT\Database\V1.0.0\MSSQL_OLEDB\MSSQL_OLEDB\bin\Debug\MSSQL_OLEDB.pdb
+D:\SuperICT\Database\V1.0.0\MSSQL_OLEDB\MSSQL_OLEDB\bin\Debug\MSSQL_OLEDB.xml
+D:\SuperICT\Database\V1.0.0\MSSQL_OLEDB\MSSQL_OLEDB\obj\x86\Debug\MSSQL_OLEDB.exe
+D:\SuperICT\Database\V1.0.0\MSSQL_OLEDB\MSSQL_OLEDB\obj\x86\Debug\MSSQL_OLEDB.xml
+D:\SuperICT\Database\V1.0.0\MSSQL_OLEDB\MSSQL_OLEDB\obj\x86\Debug\MSSQL_OLEDB.pdb
